@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Python, Kotlin, Android apps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mandaldipayan15@gmail.com, telegram: https://t.me/Dipayan_Mandal, instagram: https://www.instagram.com/the_last_hope15/
+- https://linktr.ee/Dipayan45 - my all handles!
+- 
 
 <!---
 Dipayan-droid/Dipayan-droid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
