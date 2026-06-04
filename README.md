@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE (2nd Year) @ UEM Kolkata | BS Data Science @ IIT Madras | Building things that matter 🚀</h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1001&pause=1000&width=435&lines=Machine+Learning+;Kaggle+Enthusiast;Android+Development;Hackathon%2BBuilder;Web+Dev+;Software+Engineer;In+making" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1001&pause=1000&width=435&lines=Machine+Learning+%7C+Kaggle+Enthusiast;Android+Development+%7C+Web+Dev+;Hackathon+%2B+Builder;Software+Engineer+In+making" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -99,18 +99,6 @@ Intelligent library management system powered by the Claude API as an AI agent, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-191919?style=flat)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dipayan-droid&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipayan-droid&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dipayan-droid&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
