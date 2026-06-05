@@ -119,3 +119,7 @@ Intelligent library management system powered by the Claude API as an AI agent, 
 <p align="center">
   <img src="https://i.pinimg.com/originals/7a/c7/1e/7ac71e72373b0fb270b3a6d72e44eea3.gif" width="100%" alt="coding gif"/>
 </p>
+https://preview.redd.it/n8agw6z2smyb1.gif?width=1920&format=mp4&s=014a8734c8d65fe3b5ef04658714bef6fc97778c
+<p align="center">
+  <img src="https://preview.redd.it/n8agw6z2smyb1.gif?width=1920&format=mp4&s=014a8734c8d65fe3b5ef04658714bef6fc97778c" width="100%" alt="coding gif"/>
+</p>
